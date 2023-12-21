@@ -1,0 +1,31 @@
+{
+  "name": "WoovieModpack",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/woovie",
+  "description": "My favorite mods",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "CaptainOfCoit-HookUI-0.3.5",
+    "CaptainOfCoit-CityMonitor-0.3.0",
+    "Cities2Modding-LegacyFlavour-0.0.8",
+    "Cities2Modding-DucksInARow-0.0.3",
+    "Cities2Modding-ExtendedTooltip-1.2.0",
+    "Cities2Modding-MapImageLayer-0.0.2",
+    "Wayzware-UnlockAllTiles-1.1.1",
+    "Orcas-BetterPedestrianPathfind-0.0.1",
+    "CaptainOfCoit-AlphaDLSSEnabler-0.2.0",
+    "STApps-Extended_Road_Upgrades-1.3.2",
+    "Cgameworld-RoadWearRemover-1.0.1",
+    "Jaxrud-Kexford-0.1.1",
+    "Cities2Modding-MapInstaller-0.0.1",
+    "SwiftCobra-SpeedLimit-0.1.3",
+    "algernon-Line_Tool_Lite-1.2.1",
+    "Cities2Modding-ExtendedHotkeys-0.4.0",
+    "Cgameworld-Map_Texture_Replacer-1.0.1",
+    "Jimmyok-CustomVehiclePathfind-1.0.2",
+    "Nyoko-Preserve_Photo_Mode-1.0.0",
+    "Cities2Modding-UnemploymentMonitor-1.3.1",
+    "slyh-Traffic_Lights_Enhancement_Alpha-0.2.8",
+    "Cities2Modding-RealisticDensity-0.0.6"
+  ]
+}
